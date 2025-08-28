@@ -1,2 +1,2 @@
-template - Project Template
+Template - Project Template
 ===========================
